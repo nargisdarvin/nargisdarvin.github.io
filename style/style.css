@@ -1,0 +1,58 @@
+/* Star Body */
+body {
+    color: #18aca4;
+    font-family: helvetica, arial sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+/* End Body */
+
+/* Star Debug */
+.bg-blue {
+    background-color: rgb(238, 17, 139);
+}
+.bg-red {
+    background-color: rgb(235, 22, 146);
+}
+.bg-red {
+    background-color: crimson;
+}
+
+/*start Container*/
+
+/* star logo*/
+.logo {
+    text-align: center;
+}
+/* End logo */
+
+/* Star Menu Primer */
+.menu-primer ul {
+    background-color: #35c522;
+    border-radius: 4px;
+    box-shadow:
+        0 3px 5px -1px rgba(0,0,0,.2),
+        0 6px 18px 0 rgba(0,0,0,.14),
+        0 1px 18px 0 rgba(0,0,0,.12),
+}
+
+.menu-primer li {
+    border-right: 1px solid #444243;
+    display: inline-block;
+    margin: 0 -4px;
+}
+.menu-primer a {
+    color: #ffff;
+    font-size: 13px;
+    display: inline block;
+    padding: 10px 28px;
+    text-transfrom: uppercase;
+}
+
+.menu-primer a:hover {
+    background-color: 
+}
+
+/* end Menu Primer */
